@@ -1,5 +1,5 @@
 # ![logo] PicEdit
-Simple WPF MVVM image editor and convertor for a course work project.
+Simple image editor and convertor for the university course work project written in C# on the WPF platform using MVVM pattern.
 
 ## Installing
 1. Download .NET 7 or higher from [official website].
@@ -43,7 +43,7 @@ There are six main formats:
 To convert image select required format and click on ```Save``` button on the bottom panel.
 
 ❗❗❗ Successful converting to **ICO** format guaranteed only for images 128x128 pixels dimensions or lower. 
-Other images dimensions converting might be fine but not guaranteed. ❗❗❗
+Other images dimensions converting might be fine but not guaranteed. ❗❗❗ (I don't recommend using it at all)
 ### Keyboard shortcuts
 ```Ctrl``` + ```Mouse Wheel``` – zoom in / zoom out. <br/>
 ```Shift``` + ```Mouse Wheel``` – left / right moving when image zoomed in. <br/>
